@@ -1,0 +1,96 @@
+body {
+  background-image: url("../assets/fondo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.inner-bg {
+  padding: 100px;
+}
+
+.top-content .text {
+  color: #fff;
+  text-align: center;
+}
+
+.form-top {
+  overflow: hidden;
+  text-align: left;
+  padding: 15px;
+  background: #fff;
+  -moz-border-radius: 2px 2px 0 0;
+  -webkit-border-radius: 2px 2px 0 0;
+  border-radius: 2px 2px 0 0;
+  
+}
+
+.form-top-left {
+  float: left;
+  width: 75%;
+  padding-top: 15px;
+}
+
+.form-top-right {
+  font-size: 50px;
+  color: #ddd;
+  text-align: right;
+  float: left;
+  width: 25%;
+}
+
+.form-bottom {
+  padding: 15px;
+  text-align: left;
+  background: #eee;
+  -moz-border-radius: 0 0 2px 2px;
+  -webkit-border-radius: 0 0 2px 2px;
+  border-radius: 0 0 2px 2px;
+  
+}
+
+.form-bottom .btn {
+  width: 100%;
+}
+
+button.btn {
+  background: #4edec3;
+  color: #000;
+}
+
+button.btn:hover {
+  background: #3dad98;
+}
+
+.social-login p {
+  margin-top: 15px;
+  color: #fff;
+  text-align: center;
+  font-size: 20px;
+}
+
+.social-login-buttons {
+  margin-top: 10px;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.social-login-buttons a {
+  margin: 5px;
+}
+
+.btn-link {
+  background: rgba(0, 0, 0, 0.4) !important;
+  border: 1px solid white !important;
+  color: white !important;
+  border-radius: 3px;
+}
+
+.btn-link:hover {
+  background: rgba(0, 0, 0, 0.7) !important;
+}
+
+.form-control {
+  margin-bottom: 10px;
+}

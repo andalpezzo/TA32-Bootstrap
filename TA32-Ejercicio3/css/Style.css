@@ -1,0 +1,45 @@
+.container-fluid {
+    padding-right: 0px !important;
+}
+
+.navbar-brand img {
+    height: 35px;
+}
+
+.navbar {
+    background-color: #3281b7 !important;
+    padding: 0px !important;
+}
+
+.nav-link:hover {
+    background-color: white !important;
+    color: #383f49 !important;
+}
+
+.dropdown-menu {
+    background-color: #434a54 !important;
+}
+
+.dropdown-item:hover {
+    background-color: #383f49 !important;
+}
+
+.dropdown-item {
+    color: white !important;
+}
+
+.fab {
+    font-size: 25px;
+    padding: 10px;
+    color: white;
+}
+
+.fa-user {
+    color: white;
+    font-size: 25px;
+}
+
+.userIcon {
+    background-color: #2d74a4;
+    padding: 10px;
+}

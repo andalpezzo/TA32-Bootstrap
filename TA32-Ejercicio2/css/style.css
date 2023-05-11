@@ -1,0 +1,25 @@
+.container {
+    background-color: #f6f6f6;
+    margin: 25px;
+}
+
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
+
+.form-group {
+    display: flex;
+    margin: 20px;
+    justify-content: center;
+}
+
+.solid {
+    color: #a9a9a9;
+}   
